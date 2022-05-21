@@ -2,13 +2,7 @@
 
 ![TETRIS](https://user-images.githubusercontent.com/58574818/165378334-23416f52-8f46-42d2-99fd-a48911086879.png)
 
-By: Group 10
-
-Tim Armstrong
-
-Diem Bui
-
-Garreth Shonaike
+This is a group project of 3 team members who are beginner friendly with JavaFX and first time making a game in Java. 
 
 
 A game of Tetris developed using Java on SDK 1.8.0 utilizing JavaFX and Scenebuilder.
